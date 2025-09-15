@@ -11,9 +11,9 @@ UdaSecurity is a Java application that simulates a security system for detecting
 
 ### Project Screenshots
 
-![](.media/snap.png)
+![](./snap.png)
 
-![](.media/executable_jar.png)
+![](./executable_jar.png)
 
 ### Project Requirements
 
@@ -63,6 +63,7 @@ mvn package
 # Run Jar File
 java -jar security/target/security-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
+
 
 
 
